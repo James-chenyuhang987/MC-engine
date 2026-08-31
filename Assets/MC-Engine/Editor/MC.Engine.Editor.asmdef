@@ -1,0 +1,19 @@
+{
+  "name": "MC.Engine.Editor",
+  "rootNamespace": "MCEngine.Editor",
+  "references": [
+    "MC.Engine.Runtime"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
+
